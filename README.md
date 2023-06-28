@@ -12,7 +12,7 @@ Skilled Data Engineer | Analyst with expertise in ETL, SQL, and data analysis. D
 
 ---
 
-### TECHNICAL SKILLS 💡🔧
+### SKILLS 💡🔧
 
 - Python 🐍
 - Shell Scripting 📜
