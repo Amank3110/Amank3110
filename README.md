@@ -7,7 +7,7 @@ Skilled Data Engineer | Analyst with expertise in ETL, SQL, and data analysis. D
 - Email: amankumar80451@gmail.com 📧
 - Location: Patiala, India 📍
 - LinkedIn: [linkedin.com/in/aman-kumar-3bab59201](https://linkedin.com/in/aman-kumar-3bab59201) 🔗
-- GitHub: [github.com/Amank3110/myRepo](https://github.com/Amank3110) 💻🔗
+- GitHub: [github.com/Amank3110](https://github.com/Amank3110) 💻🔗
 
 ---
 
