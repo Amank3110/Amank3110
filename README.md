@@ -13,7 +13,16 @@ Skilled Data Engineer | Analyst with expertise in ETL, SQL, and data analysis. D
 
 ## Technical Skills 💡🔧
 
-- Python 🐍, Shell Scripting 📜, Data Warehouse: Snowflake ❄️, SQL (MySQL, PostgreSQL) 📊💻, ETL (EXTRACT TRANSFORM LOAD) 🔄, AWS (S3) ☁️, Tableau 📊, GitHub 💻🔗, Advanced Excel 📈📚, Web Scraping📝.
+- Python 🐍
+Shell Scripting 📜
+Data Warehouse: Snowflake ❄️
+SQL (MySQL, PostgreSQL) 📊💻
+ETL (EXTRACT TRANSFORM LOAD) 🔄
+AWS (S3) ☁️
+Tableau 📊
+GitHub 💻🔗
+Advanced Excel 📈📚
+Web Scraping📝.
 
 ---
 
